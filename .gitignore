@@ -24,8 +24,7 @@ hs_err_pid*
 replay_pid*
 
 # ignore eclipse paths
-ClanWarPlannerGUI/*
-!ClanWarPlannerGUI/src/*
+
 
 
 # git ignore eclipse
