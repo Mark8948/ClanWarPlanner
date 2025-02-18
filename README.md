@@ -13,11 +13,5 @@ Clan War Planner GUI is a Java-based desktop application designed to help Clash 
 - **Java**: Core programming language.  
 - **Swing/AWT**: For creating the graphical user interface.
 
-## Getting Started
-
-1. **Prerequisites:**  
+## Prerequisites  
    - Ensure Java Runtime Environment (JRE) is installed.
-
-2. **Running the Application:**  
-   ```bash
-   java -jar ClanWarPlannerGUI.jar
